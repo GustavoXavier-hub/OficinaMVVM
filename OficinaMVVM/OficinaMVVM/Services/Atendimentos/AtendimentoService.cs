@@ -11,6 +11,7 @@ namespace OficinaMVVM.Services.Atendimentos
     {
         private readonly IRequest _request;
         private const string ApiUrlBase = "http://lzsouza.somee.com/api/Atendimentos";
+        //endereco da minha api//<!http:gustavoxavier.somee.com/api/AtendimentoFotos;!>
 
         public AtendimentoService()
         {
